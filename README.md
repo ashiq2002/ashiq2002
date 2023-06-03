@@ -1,10 +1,10 @@
 # 👋 I'm Md. Ashiq Hossain
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DD756CD&center=true&vCenter=true&multiline=false&width=435&lines=Mobile+Application+Developer)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on E-commerce app<br>👯 I’m looking to collaborate on Food Delivery App or any other E-commerce app<br>🌱 I’m currently learning Django<br>💬 Ask me about java, kotlin, dart, android, flutter <br>⚡ Fun fact, I enjoy mobile application development<br>📧 How to reach me mdashiqhossain6@gmail.com
+🌱 I’m currently learning Django<br>💬 Ask me about java, kotlin, dart, android, flutter <br>⚡ Fun fact, I enjoy mobile application development<br>📧 How to reach me mdashiqhossain6@gmail.com
 
 
 ## 🌐 Socials:
