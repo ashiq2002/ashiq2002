@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
-🌱 I’m currently learning Spring-boot, Dagger2 Hilt<br>💬 Ask me about java, kotlin, android, flutter <br>⚡ Fun fact, I enjoy mobile application development<br>📧 How to reach me mdashiqhossain6@gmail.com | https://www.facebook.com/a7hik99 | https://www.linkedin.com/in/md-ashiq-hossain-0583b21ab/
+🌱 I’m currently learning Spring-boot, Dagger2 Hilt<br>💬 Ask me about java, kotlin, android, flutter <br>⚡ Fun fact, I enjoy mobile application development<br>📧 How to reach me: [LinkedIn](https://www.linkedin.com/in/md-ashiq-hossain-0583b21ab/) | [Facebook](https://www.facebook.com/a7hik99) | mdashiqhossain6@gmail.com
 
 
 ## 🌐 Socials:
